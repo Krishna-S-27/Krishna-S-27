@@ -14,7 +14,7 @@ Programming Languages: Python, JavaScript
 
 Machine Learning: Scikit-learn, TensorFlow, Keras
 
-Quantum Computing: Qiskit
+Quantum Computing: PenneyLane
 
 Data Science: Pandas, NumPy, Matplotlib, Seaborn
 
