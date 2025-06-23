@@ -37,15 +37,6 @@ I am a passionate **researcher and developer** based in **Bangalore, Karnataka**
 
 ---
 
-### 📈 GitHub Stats
-<!-- Optionally add GitHub stats cards -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-S-27&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-S-27&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 Email: [krishnashalawadi27@gmail.com](mailto:krishnashalawadi27@gmail.com)  
