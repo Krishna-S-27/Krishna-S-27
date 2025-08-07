@@ -42,7 +42,7 @@ I am a passionate **researcher and developer** based in **Bangalore, Karnataka**
 - 📧 Email: [krishnashalawadi27@gmail.com](mailto:krishnashalawadi27@gmail.com)  
 - 💻 GitHub: [Krishna-S-27](https://github.com/Krishna-S-27)  
 - 📷 Instagram: [@itskrrisshhh](https://instagram.com/itskrrisshhh)
-- 🔗 Linkedin: [Krishna Shalawadi](https://www.linkedin.com/in/krishnashalawadi/https://www.linkedin.com/in/krishnashalawadi/)
+- 🔗 Linkedin: [Krishna Shalawadi](https://www.linkedin.com/in/krishnashalawadi/)
 
 ---
 
